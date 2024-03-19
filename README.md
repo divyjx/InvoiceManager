@@ -6,8 +6,7 @@ Web API built with DRF for handling invoice and invoice detail requests
 
 Cloning and setting up enviornment (python 3.10 or above required)
 ```shell
-git clone https://github.com/divyjx/InvoiceManager.git
-cd InvoiceManager
+git clone https://github.com/divyjx/InvoiceManager.git .
 python -m venv myenv
 source myenv/bin/activate
 pip install - reuirements.txt

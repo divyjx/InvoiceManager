@@ -62,7 +62,7 @@ Example
         "description":"ABC",
         "price":null,
         "unit_price":90,
-        "qunatity":100
+        "quanatity":100
     }
 }
 ```
@@ -75,7 +75,7 @@ Example
         "description":"ABC",
         "price":null,
         "unit_price":90,
-        "qunatity":100
+        "quanatity":100
     }
 }
 ```

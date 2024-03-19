@@ -26,7 +26,7 @@ cd InvoiceManager
 ## Tests
 For checking functioning of api endpoints
 ```shell
-./manager.py test
+./manage.py test
 ```
 
 ## Requests

@@ -9,7 +9,7 @@ Cloning and setting up enviornment (python 3.10 or above required)
 git clone https://github.com/divyjx/InvoiceManager.git .
 python -m venv myenv
 source myenv/bin/activate
-pip install - reuirements.txt
+pip install - requirements.txt
 ```
 
 Starting server

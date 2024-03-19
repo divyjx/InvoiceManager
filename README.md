@@ -1,6 +1,6 @@
 # Invoice Manager
 
-API built with DRF for handling invoice and invoice detail requests
+Web API built with DRF for handling invoice and invoice detail requests
 
 ## Setup
 
